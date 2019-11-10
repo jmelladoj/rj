@@ -26,6 +26,8 @@ import BootstrapVue from 'bootstrap-vue';
 import PictureInput from 'vue-picture-input';
 import VueLazyload from 'vue-lazyload';
 import { VueStars } from "vue-stars";
+import Autoscroll from 'vue-autoscroll';
+
 
 Vue.component("vue-stars", VueStars);
 
@@ -34,6 +36,8 @@ Vue.use(VueLazyload, {
     attempt: 1,
     listenEvents: [ 'scroll' ]
 });
+
+Vue.use(Autoscroll);
 
 Vue.use(VeeValidate, { classes: true, fieldsBagName: 'veeFields' });
 Validator.localize("es", es);

@@ -6,7 +6,7 @@ return [
          * The default configurations to be used by the meta generator.
          */
         'defaults'       => [
-            'title'        => "Las mejores escort de Concepción - PlacerConce.cl", // set false to total remove
+            'title'        => "Las mejores escort de Concepción - Relajandote.cl", // set false to total remove
             'description'  => 'Las mejores escort, escorts, prostitutas, putas y damas de compañia de concepcion te esperan', // set false to total remove
             'separator'    => ' - ',
             'keywords'     => ['escort', 'escorts', 'prostitutas' , 'damas de compañia', 'concepcion', 'escort concepcion', 'escorts en concepcion', 'postitutas en concepcion', 'damas de compañia en concepcion', 'conce'],
@@ -30,11 +30,11 @@ return [
          * The default configurations to be used by the opengraph generator.
          */
         'defaults' => [
-            'title'       => 'Las mejores escort de Concepción - PlacerConce.cl', // set false to total remove
+            'title'       => 'Las mejores escort de Concepción - Relajandote.cl', // set false to total remove
             'description' => 'Las mejores escort, escorts, prostitutas, putas y damas de compañia de concepcion te esperan', // set false to total remove
-            'url'         => 'https://www.placerconce.cl/', // Set null for using Url::current(), set false to total remove
+            'url'         => 'https://www.relajandote.cl/', // Set null for using Url::current(), set false to total remove
             'type'        => false,
-            'site_name'   => 'Placer Conce',
+            'site_name'   => 'Relajandote',
             'images'      => [],
         ],
     ],

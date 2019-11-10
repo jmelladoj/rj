@@ -3,7 +3,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-sm-12 text-right">
-                    <h2 class="section_header">ESCORT VIP EN CONCEPCION</h2>
+                    <h2 class="section_header">ESCORT VIP</h2>
                 </div>
             </div>
 
